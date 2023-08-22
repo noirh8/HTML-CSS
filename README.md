@@ -1,2 +1,2 @@
 # HTML-CSS
-Where I submit some simple website that I try in free time
+Where I submit some simple websites that I try in free time
